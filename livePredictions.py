@@ -135,3 +135,4 @@ if __name__=="__main__":
     dir_name="D:\\CSCI 599 data\\"
     fname="extract_time.csv"
     main(dir_name,fname)
+    print("Success")
