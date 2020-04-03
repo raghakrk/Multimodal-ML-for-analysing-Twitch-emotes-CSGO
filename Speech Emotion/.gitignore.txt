@@ -1,1 +1,3 @@
 "Emotion_Voice_Detection_Model.h5"
+"Model Training\*.npz"
+"Speech Emotion\*.h5"
